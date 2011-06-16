@@ -1,0 +1,28 @@
+{
+    "boot": "github.com/pinf/insight-js/tests/",
+    "packages": {
+        "github.com/pinf/insight-js/tests/": {
+            "locator": {
+                "location": "./"
+            }
+        },
+        "github.com/pinf/insight-js/": {
+            "locator": {
+                "location": "../"
+            }
+        },
+        "github.com/pinf/wildfire-js/": {
+            "locator": {
+                "archive": "https://github.com/pinf/wildfire-js/zipball/master"
+            }
+        },
+        "github.com/pinf/modules-js/": {
+            "locator": {
+                "archive": "https://github.com/pinf/modules-js/zipball/master"
+            }
+        },
+        "nodejs.org": {
+            "provider": "nodejs.org"
+        }
+    }
+}

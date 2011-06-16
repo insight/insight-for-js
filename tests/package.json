@@ -1,0 +1,16 @@
+{
+    "uid": "https://github.com/pinf/insight-js/tests/",
+    "name": "insight-js-tests",
+    "main": "all.js",
+    "mappings": {
+        "insight": {
+            "id": "github.com/pinf/insight-js/"
+        },
+        "wildfire": {
+            "id": "github.com/pinf/wildfire-js/"
+        },
+        "modules": {
+            "id": "github.com/pinf/modules-js/"
+        }
+    }
+}

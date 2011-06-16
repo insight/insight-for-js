@@ -1,0 +1,34 @@
+{
+    "uid": "https://github.com/pinf/insight-js/",
+    "name": "insight-js",
+    "label": "Internal Intelligence Library",
+    "description": "Internal Intelligence Library for JavaScript",
+    "homepage": "https://github.com/pinf/insight-js",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/pinf/insight-js.git"
+        }
+    ],
+    "maintainers": [
+        {
+            "name": "Christoph Dorn",
+            "email": "christoph@christophdorn.com",
+            "web": "http://www.christophdorn.com/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "mappings": {
+        "wildfire": {
+            "id": "github.com/pinf/wildfire-js/"
+        },
+        "modules": {
+            "id": "github.com/pinf/modules-js/"
+        }
+    }
+}
