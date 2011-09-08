@@ -3,7 +3,7 @@ Insight Intelligence Library for JavaScript
 
 **Status: dev**
 
-Insight is an intelligence system used to gather and aggregate internal information from a
+Insight is an intelligence system used to gather, aggregate and display internal information from a
 running application. The data is encoded in a language agnostic JSON-based object graph that
 can be transmitted and rendered by developer tools such as integrated development environments,
 monitoring services and debugging inspectors.
