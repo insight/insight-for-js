@@ -19,6 +19,12 @@ Testing:
     commonjs ./tests
 
 
+Links
+=====
+
+  * Simple NodeJS logging approach: https://groups.google.com/forum/#!msg/nodejs/2NcBM7eXD94/1yYfXl_YSdsJ
+
+
 Support & Feedback
 ==================
 
