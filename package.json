@@ -1,14 +1,19 @@
 {
     "uid": "https://github.com/insight/insight-for-js/",
     "name": "insight-for-js",
+    "version": "0.1.0",
     "label": "Internal Intelligence Library",
     "description": "Internal Intelligence Library for JavaScript",
     "homepage": "https://github.com/insight/insight-for-js",
     "directories": {
         "lib": "./lib"
     },
+    "dependencies": {
+        "fp-modules-for-nodejs": "'0.2.x",
+        "wildfire-for-js": "0.1.x"
+    },
     "mappings": {
-        "wildfire": "../wildfire-for-js",
-        "modules": "../pinf-bridgelib-js"
+        "wildfire": "./node_modules/wildfire-for-js",
+        "modules": "./node_modules/fp-modules-for-nodejs"
     }
 }
