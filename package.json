@@ -9,7 +9,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "fp-modules-for-nodejs": "'0.2.x",
+    "fp-modules-for-nodejs": "0.2.x",
     "wildfire-for-js": "0.1.x"
   },
   "mappings": {
