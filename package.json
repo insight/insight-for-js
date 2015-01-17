@@ -15,5 +15,10 @@
   "mappings": {
     "wildfire": "./node_modules/wildfire-for-js",
     "modules": "./node_modules/fp-modules-for-nodejs"
+  },
+  "config": {
+    "pio.deploy.converter": {
+      "name": "nodejs-lib"
+    }
   }
 }
