@@ -2,6 +2,9 @@
   "uid": "https://github.com/insight/insight-for-js/",
   "name": "insight-for-js",
   "version": "0.1.2",
+  "pm": {
+    "publish": "npm"
+  },
   "label": "Internal Intelligence Library",
   "description": "Internal Intelligence Library for JavaScript",
   "homepage": "https://github.com/insight/insight-for-js",
@@ -9,8 +12,8 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "fp-modules-for-nodejs": "0.2.x",
-    "wildfire-for-js": "0.1.x"
+    "fp-modules-for-nodejs": "^0.2.2",
+    "wildfire-for-js": "^0.1.3"
   },
   "mappings": {
     "wildfire": "./node_modules/wildfire-for-js",
