@@ -1,3 +1,5 @@
 /node_modules/
 /.pio.cache/
 /.installed.production
+/package-lock.json
+.~*
