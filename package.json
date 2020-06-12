@@ -1,7 +1,7 @@
 {
   "uid": "https://github.com/insight/insight-for-js/",
   "name": "insight-for-js",
-  "version": "0.2.1-pre.0",
+  "version": "0.2.1-pre.1",
   "pm": {
     "publish": "npm"
   },
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "fp-modules-for-nodejs": "^0.2.2",
-    "wildfire-for-js": "^0.1.5-pre.0"
+    "wildfire-for-js": "^0.1.4"
   },
   "mappings": {
     "wildfire": "./node_modules/wildfire-for-js",
