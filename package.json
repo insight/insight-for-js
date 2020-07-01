@@ -1,7 +1,7 @@
 {
   "uid": "https://github.com/insight/insight-for-js/",
   "name": "insight-for-js",
-  "version": "0.2.1-pre.1",
+  "version": "0.2.1-pre.2",
   "pm": {
     "publish": "npm"
   },
@@ -12,16 +12,6 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "fp-modules-for-nodejs": "^0.2.2",
-    "wildfire-for-js": "^0.1.4"
-  },
-  "mappings": {
-    "wildfire": "./node_modules/wildfire-for-js",
-    "modules": "./node_modules/fp-modules-for-nodejs"
-  },
-  "config": {
-    "pio.deploy.converter": {
-      "name": "nodejs-lib"
-    }
+    "wildfire-for-js": "^0.2.0-pre.0"
   }
 }
